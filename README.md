@@ -7,9 +7,6 @@ A continuación encontrará el README de la página web modelo diseñada para es
 
 *Tabla de contenidos*
 
-[TOCM]
-
-[TOC]
 
 # Estructura de la página
  - Encabezado
